@@ -1,0 +1,2 @@
+//include all of your bank_xxx.event, map_xxx.event, and drums_xxx.event files here with the following line(s): (without the leading //)
+//#include "./voicegroups/filename.event"

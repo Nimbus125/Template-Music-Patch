@@ -1,0 +1,120 @@
+#include "./voicegroups.event"
+#include "./waves.event"
+
+//include all the songs you want to use with the following format: (without the leading //)
+//#include "./songs/songname.event"
+//songs
+
+
+
+//replace each "//used" with the song you want to have used in that spot using the following format: (without the leading //)
+//POIN songname.event
+//only songs that will appear without music rando have "//used" below them, 
+//if you want music rando to sound good put the song you want below each ORG statement instead
+//sound table overrides
+PUSH
+ORG $B1D41C //hyrule castle (tournament ver.)
+ORG $B1D424 //vaati motif
+ORG $B1D42C //title screen
+//used
+ORG $B1D434 //hyrule castle motif
+ORG $B1D43C //Element get
+//used
+ORG $B1D444 //Fairy Fountain
+//used
+ORG $B1D44C //File Select
+//used
+ORG $B1D454 //Intro Cutscene
+ORG $B1D45C //Credits
+ORG $B1D464 //Game Over
+//used
+ORG $B1D46C //Saving Zelda
+ORG $B1D474 //Title Screen (ALTTP)
+ORG $B1D47C //Vaati's Theme
+ORG $B1D484 //Ezlo's Theme
+ORG $B1D48C //Story
+ORG $B1D494 //Festival Approach
+ORG $B1D49C //Beat Vaati
+ORG $B1D4A4 //empty
+ORG $B1D4AC //Climbimg a Beanstalk
+//used
+ORG $B1D4B4 //House Theme
+//used
+ORG $B1D4BC //Cucco Minigame
+//used
+ORG $B1D4C4 //Syrup's Theme
+//used
+ORG $B1D4CC //Dungeon
+//used
+ORG $B1D4D4 //Element Theme/Wind Tribe Motif
+//used
+ORG $B1D4DC //Hyrule Field
+//used
+ORG $B1D4E4 //Hyrule Castle
+//used
+ORG $B1D4EC //Hyrule Castle (no intro)
+ORG $B1D4F4 //Minish Village
+//used
+ORG $B1D4FC //Minish Woods
+//used
+ORG $B1D504 //Crenel Storm
+//used
+ORG $B1D50C //Castor
+//used
+ORG $B1D514 //Hyrule Town
+//used
+ORG $B1D51C //Royal Valley
+//used
+ORG $B1D524 //Cloud Tops
+//used
+ORG $B1D52C //DHC
+//used
+ORG $B1D534 //Castle Secret Entry
+//used
+ORG $B1D53C //DWS
+//used
+ORG $B1D544 //CoF
+//used
+ORG $B1D54C //FoW
+//used
+ORG $B1D554 //ToD
+//used
+ORG $B1D55C //PoW
+//used
+ORG $B1D564 //Ezlo Story
+ORG $B1D56C //Royal Crypt
+//used
+ORG $B1D574 //Elemental Sanctuary
+//used
+ORG $B1D57C //Fight Theme
+//used
+ORG $B1D584 //Boss Theme
+//used
+ORG $B1D58C //Vaati 1
+//used
+ORG $B1D594 //Vaati 2
+//used
+ORG $B1D59C //Castle Collapse
+//used
+ORG $B1D5A4 //Vaati 3
+//used
+ORG $B1D5AC //Fight Theme 2
+//used
+ORG $B1D5B4 //Digging Cave
+//used
+ORG $B1D5BC //Dojos
+//used
+ORG $B1D5C4 //The Minish Cap
+ORG $B1D5CC //Mt. Crenel
+//used
+ORG $B1D5D4 //Picori Festival
+ORG $B1D5DC //Lost Woods
+//used
+ORG $B1D5E4 //Fairy Fountain 2
+//used
+ORG $B1D5EC //Wind Ruins
+//used
+//...
+ORG $B1D704 //Obtain scroll (TODO: check)
+//used
+POP

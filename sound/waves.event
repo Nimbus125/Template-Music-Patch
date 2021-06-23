@@ -1,0 +1,2 @@
+//include all your wave_xxx.event and gbwave_xxx.event files here using the following line(s): (without the leading //)
+//#include "./waves/filename.event"

@@ -54,6 +54,7 @@ ORG $B1D4DC //Hyrule Field
 ORG $B1D4E4 //Hyrule Castle
 //used
 ORG $B1D4EC //Hyrule Castle (no intro)
+//used
 ORG $B1D4F4 //Minish Village
 //used
 ORG $B1D4FC //Minish Woods

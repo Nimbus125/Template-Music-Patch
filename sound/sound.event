@@ -26,6 +26,7 @@ ORG $B1D44C //File Select
 //used
 ORG $B1D454 //Intro Cutscene
 ORG $B1D45C //Credits
+//used
 ORG $B1D464 //Game Over
 //used
 ORG $B1D46C //Saving Zelda

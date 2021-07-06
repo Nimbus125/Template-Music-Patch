@@ -54,7 +54,6 @@ ORG $B1D4DC //Hyrule Field
 ORG $B1D4E4 //Hyrule Castle
 //used
 ORG $B1D4EC //Hyrule Castle (no intro)
-//used
 ORG $B1D4F4 //Minish Village
 //used
 ORG $B1D4FC //Minish Woods
@@ -111,7 +110,6 @@ ORG $B1D5CC //Mt. Crenel
 //used
 ORG $B1D5D4 //Picori Festival
 ORG $B1D5DC //Lost Woods
-//used
 ORG $B1D5E4 //Fairy Fountain 2
 //used
 ORG $B1D5EC //Wind Ruins

@@ -25,6 +25,7 @@ ORG $B1D444 //Fairy Fountain
 ORG $B1D44C //File Select
 //used
 ORG $B1D454 //Intro Cutscene
+//used
 ORG $B1D45C //Credits
 //used
 ORG $B1D464 //Game Over
@@ -32,6 +33,7 @@ ORG $B1D464 //Game Over
 ORG $B1D46C //Saving Zelda
 ORG $B1D474 //Title Screen (ALTTP)
 ORG $B1D47C //Vaati's Theme
+//used
 ORG $B1D484 //Ezlo's Theme
 ORG $B1D48C //Story
 ORG $B1D494 //Festival Approach
@@ -54,6 +56,7 @@ ORG $B1D4DC //Hyrule Field
 ORG $B1D4E4 //Hyrule Castle
 //used
 ORG $B1D4EC //Hyrule Castle (no intro)
+//used
 ORG $B1D4F4 //Minish Village
 //used
 ORG $B1D4FC //Minish Woods
@@ -110,6 +113,7 @@ ORG $B1D5CC //Mt. Crenel
 //used
 ORG $B1D5D4 //Picori Festival
 ORG $B1D5DC //Lost Woods
+//used
 ORG $B1D5E4 //Fairy Fountain 2
 //used
 ORG $B1D5EC //Wind Ruins

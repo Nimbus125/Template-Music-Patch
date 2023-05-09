@@ -8,7 +8,7 @@
 
 
 //replace each "//used" with the song you want to have used in that spot using the following format: (without the leading //)
-//POIN songname.event
+//POIN songname
 //only songs that will appear without music rando have "//used" below them, 
 //if you want music rando to sound good put the song you want below each ORG statement instead
 //sound table overrides
@@ -36,6 +36,7 @@ ORG $B1D47C //Vaati's Theme
 //used
 ORG $B1D484 //Ezlo's Theme
 ORG $B1D48C //Story
+//used
 ORG $B1D494 //Festival Approach
 ORG $B1D49C //Beat Vaati
 ORG $B1D4A4 //empty
